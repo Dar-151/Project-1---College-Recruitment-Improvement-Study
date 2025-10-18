@@ -22,7 +22,7 @@ Most students learned about CCM through the family and friends with it being abo
 
 
 ## Files in This Repository
-- ccm_survey_analysis.ipynb → The Jupyter notebook with all code and charts  
-- cleaned_ccm_data.csv → The cleaned dataset  
+- Data visualization.ipynb → The Jupyter notebook with all code and charts  
+- cleanded datasetsss.csv → The cleaned dataset  
 - README.md → This file (summary and written analysis)
 
